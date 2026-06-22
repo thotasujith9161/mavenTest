@@ -26,6 +26,4 @@ and the dependency:
 	</dependency>
 ```
 
-# mavenUnitTest
 1st commit
-2nd commit
